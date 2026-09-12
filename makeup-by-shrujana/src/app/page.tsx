@@ -72,7 +72,7 @@ export default async function Home() {
           <p className="text-sm opacity-70 mb-8">Certified Makeup Artist &middot; KR Puram &middot; Whitefield &middot; All over Bengaluru</p>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
             <a
-              href="https://wa.me/918217781256"
+              href="https://wa.me/918217781256?text=Hi%20Shrujana!%20I%27m%20interested%20in%20booking%20a%20makeup%20session.%20Could%20you%20share%20more%20details%3F"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 bg-rose-600 hover:bg-rose-700 text-white font-medium px-7 py-3 rounded-full transition-colors text-sm"
@@ -279,7 +279,7 @@ export default async function Home() {
           </p>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
             <a
-              href="https://wa.me/918217781256"
+              href="https://wa.me/918217781256?text=Hi%20Shrujana!%20I%27m%20interested%20in%20booking%20a%20makeup%20session.%20Could%20you%20share%20more%20details%3F"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 bg-green-600 hover:bg-green-700 text-white font-medium px-6 py-3 rounded-full transition-colors text-sm"
@@ -306,7 +306,7 @@ export default async function Home() {
 
       {/* WhatsApp float */}
       <a
-        href="https://wa.me/918217781256"
+        href="https://wa.me/918217781256?text=Hi%20Shrujana!%20I%27m%20interested%20in%20booking%20a%20makeup%20session.%20Could%20you%20share%20more%20details%3F"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-5 right-5 bg-green-500 hover:bg-green-600 text-white rounded-full p-3.5 shadow-lg transition-colors z-40"

@@ -23,7 +23,7 @@ export default function Footer() {
               <a href="tel:+918147061253" className="flex items-center gap-2 hover:text-white transition-colors">
                 <Phone className="w-3.5 h-3.5 shrink-0" /> +91 81470 61253 <span className="text-stone-500 text-xs">(Alt)</span>
               </a>
-              <a href="https://wa.me/918217781256" target="_blank" rel="noopener noreferrer"
+              <a href="https://wa.me/918217781256?text=Hi%20Shrujana!%20I%27m%20interested%20in%20booking%20a%20makeup%20session.%20Could%20you%20share%20more%20details%3F" target="_blank" rel="noopener noreferrer"
                 className="flex items-center gap-2 hover:text-white transition-colors">
                 <MessageCircle className="w-3.5 h-3.5 shrink-0" /> WhatsApp
               </a>

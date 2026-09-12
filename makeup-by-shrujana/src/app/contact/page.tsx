@@ -132,7 +132,7 @@ export default function Contact() {
 
       {/* WhatsApp float */}
       <a
-        href="https://wa.me/918217781256"
+        href="https://wa.me/918217781256?text=Hi%20Shrujana!%20I%27m%20interested%20in%20booking%20a%20makeup%20session.%20Could%20you%20share%20more%20details%3F"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-5 right-5 bg-green-500 hover:bg-green-600 text-white rounded-full p-3.5 shadow-lg transition-colors z-40"

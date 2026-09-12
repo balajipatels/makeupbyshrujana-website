@@ -95,7 +95,7 @@ export default function Portfolio() {
           <h3 className="font-serif text-2xl text-stone-900 mb-2">Love what you see?</h3>
           <p className="text-stone-500 text-sm mb-6">Book your appointment and get your perfect look.</p>
           <a
-            href="https://wa.me/918217781256"
+            href="https://wa.me/918217781256?text=Hi%20Shrujana!%20I%27m%20interested%20in%20booking%20a%20makeup%20session.%20Could%20you%20share%20more%20details%3F"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-rose-600 hover:bg-rose-700 text-white font-medium px-7 py-3 rounded-full transition-colors text-sm"

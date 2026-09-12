@@ -74,7 +74,7 @@ export default function Header() {
             Call
           </a>
           <a
-            href="https://wa.me/918217781256"
+            href="https://wa.me/918217781256?text=Hi%20Shrujana!%20I%27m%20interested%20in%20booking%20a%20makeup%20session.%20Could%20you%20share%20more%20details%3F"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-1.5 bg-rose-600 hover:bg-rose-700 text-white text-sm font-medium px-4 py-2 rounded-full transition-colors"
@@ -115,7 +115,7 @@ export default function Header() {
               <Phone className="w-4 h-4" /> +91 82177 81256
             </a>
             <a
-              href="https://wa.me/918217781256"
+              href="https://wa.me/918217781256?text=Hi%20Shrujana!%20I%27m%20interested%20in%20booking%20a%20makeup%20session.%20Could%20you%20share%20more%20details%3F"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 bg-rose-600 hover:bg-rose-700 text-white text-sm font-medium px-4 py-2.5 rounded-full transition-colors"

@@ -93,7 +93,7 @@ export default function Services() {
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-3">
             <a
-              href="https://wa.me/918217781256"
+              href="https://wa.me/918217781256?text=Hi%20Shrujana!%20I%27m%20interested%20in%20booking%20a%20makeup%20session.%20Could%20you%20share%20more%20details%3F"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 bg-green-600 hover:bg-green-700 text-white font-medium px-6 py-3 rounded-full transition-colors text-sm"
